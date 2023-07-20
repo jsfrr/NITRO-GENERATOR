@@ -7,7 +7,7 @@ this is made by jsfr
 - how to setup? open "Nitro_gen+checker"
 - and then Atype: "!NitroStart"
 
-- crazy is that ive gotten around 3codes with this
+- crazy is that ive gotten around 3 working nitro with this
 and i coded it 2days ago
 
 
